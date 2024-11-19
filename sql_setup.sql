@@ -1,3 +1,4 @@
+CREATE database if not   EXISTS mcq_test;
 USE mcq_test;
 
 -- Table to track tests
